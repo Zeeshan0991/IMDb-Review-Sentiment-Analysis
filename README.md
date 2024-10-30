@@ -51,9 +51,9 @@ Three Naive Bayes models were trained and evaluated:
 3. **Bernoulli Naive Bayes**
 
 Each model was assessed based on accuracy, with Multinomial Naive Bayes performing the best on this dataset and chosen for deployment. Model accuracy results are as follows:
-- **Gaussian**: [Add Accuracy]
-- **Multinomial**: [Add Accuracy]
-- **Bernoulli**: [Add Accuracy]
+- **Gaussian**: [78.0]
+- **Multinomial**: [85.0]
+- **Bernoulli**: [84.0]
 
 ## Streamlit Deployment
 The Multinomial Naive Bayes model was deployed using Streamlit, providing an interactive interface to test review sentiment predictions in real-time.
